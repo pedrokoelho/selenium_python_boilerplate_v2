@@ -20,6 +20,8 @@ class TestSample1:
         # call the page methods
         # SamplePage.sample_method()
 
+	logging.info('       :::::::::::: We are going to perform some action :::::::::::: ')
+	    
 	# get a random adress from random address generator page in a new tab
         random_address = random_address_generator.get_random_address()
 	logging.info(f'       ««««««««««« The random adress is {random_address} »»»»»»»»»»» ')
