@@ -1,7 +1,7 @@
 # Selenium with Python and Pytest boilerplate V2
 Basic framework structure to start automate the browser 
 
-(***)
+---
 
 ## Create Repo
 
