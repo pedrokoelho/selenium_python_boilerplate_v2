@@ -22,7 +22,7 @@ Basic framework structure to start automate the browser
 `pip install pytest`
 
 ## Create the basic structure
-> create folder pages
-> create folder tests
-> fixture setup_teardown in conftest.py under tests folder
-> create the first test
+- create folder pages
+- create folder tests
+- fixture setup_teardown in conftest.py under tests folder
+- create the first test
